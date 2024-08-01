@@ -1,0 +1,27 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+header {
+	backtound-color: #4CAF50;
+	color: white;
+	padding: 1em 0;
+}
+
+main {
+	padding: 20px;
+
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	margin: 10px 0;
+}
+
+#about, #drawings {
+	margin: 20px 0;
+}
